@@ -588,7 +588,3 @@ A teddy bear, in a fluff mindfulness group, embracing its stuffed emotions and c
 ###Assistant:
 Voici un problème mathématique : résoudre l'équation linéaire $$2x + 3 = 7$$." ,"###Human:
 Generate a midjourney prompt for Solving a linear equation
-
-###Assistant:
-Voici un exemple simple de code Python pour calculer la factorielle d'un nombre : python def factorial(n):  if n == 0: return 1 else:  return n * factorial(n-1)", "###Human:
-Generate a midjourney prompt for A Python function calculating factorial
