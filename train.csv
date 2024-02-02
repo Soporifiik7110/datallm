@@ -587,3 +587,8 @@ x + 10  = 30"
 The repsonse is equal to 20, "The solution is twenty.","###Human:
 Generate a midjourney prompt for to resolve this equation x + 10 = ?"
 
+###Assistant:
+x + 10  = 40"
+The repsonse is equal to 30, "The solution is thirty.","###Human:
+Generate a midjourney prompt for to resolve this equation x + 10  =  40?"
+
